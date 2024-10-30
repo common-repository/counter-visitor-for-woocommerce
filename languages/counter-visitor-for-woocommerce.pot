@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-16 17:30+0200\n"
+"PO-Revision-Date: 2019-08-28 20:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: views/options.php:72
+msgid "An error has occurred, try again."
+msgstr ""
+
+#: views/options.php:76
+msgid "Welcome newsletter :)"
+msgstr ""
+
+#: views/options.php:88
+msgid "files deleted success"
+msgstr ""
+
+#: views/options.php:92
+msgid "Permission Failed, need administrator rol for delete old files"
+msgstr ""
+
+#: views/options.php:129
+msgid "Counter Visitor for Woocommerce"
+msgstr ""
+
+#: views/options.php:130
+msgid "It is not a simple visitor counter, this counter is shown on each product with the number of users who are currently viewing that same product"
+msgstr ""
+
+#: views/options.php:136
+msgid "Do you want to receive the latest?"
+msgstr ""
+
+#: views/options.php:137
+msgid "Thank you very much for using our plugin, if you want to receive the latest news, offers, promotions, discounts, etc ... Sign up for our newsletter. :)"
+msgstr ""
+
+#: views/options.php:139
+msgid "Required"
+msgstr ""
+
+#: views/options.php:145
+msgid "By clicking send you accept our "
+msgstr ""
+
+#: views/options.php:145
+msgid "privacy policy"
+msgstr ""
+
+#: views/options.php:148
+msgid "Submit"
+msgstr ""
+
+#: views/options.php:148
+msgid "Processing"
+msgstr ""
+
+#: views/options.php:162
+msgid "¡Donate!"
+msgstr ""
+
+#: views/options.php:169
+msgid "You can delete the old files generated more than 1 hour old"
+msgstr ""
+
+#: views/options.php:172
+msgid "Delete old files"
+msgstr ""
+
+#: views/options.php:184
+msgid "Your site use cache system?"
+msgstr ""
+
+#: views/options.php:185
+msgid "Activate this option if your site uses some type of cache and add 'wcvisitor' to the plugin cache exceptions"
+msgstr ""
+
+#: views/options.php:193
+msgid "Live Mode: Do you want to show users in real time?"
+msgstr ""
+
+#: views/options.php:194
+msgid "This option adds a call per user every X seconds, check its operation on your server, for security less than 5 seconds are not allowed. Use this option considering the resources of your server."
+msgstr ""
+
+#: views/options.php:202
+msgid "How often to update the number of users in the product?"
+msgstr ""
+
+#: views/options.php:203
+msgid "Seconds, min 5 seconds.. (Require Live Move)"
+msgstr ""
+
+#: views/options.php:211
+msgid "Duration"
+msgstr ""
+
+#: views/options.php:212
+msgid "Time since last activity of an users to be considered inactive"
+msgstr ""
+
+#: views/options.php:220
+msgid "Position"
+msgstr ""
+
+#: views/options.php:224
+msgid "After cart button"
+msgstr ""
+
+#: views/options.php:225
+msgid "Before cart button"
+msgstr ""
+
+#: views/options.php:226
+msgid "After product meta"
+msgstr ""
+
+#: views/options.php:227
+msgid "Before product summary"
+msgstr ""
+
+#: views/options.php:228
+msgid "After product summary"
+msgstr ""
+
+#: views/options.php:229
+msgid "Product Thumbnail (may not work)"
+msgstr ""
+
+#: views/options.php:235
+msgid "Fake Mode"
+msgstr ""
+
+#: views/options.php:236
+msgid "Use Random numbers between from / to"
+msgstr ""
+
+#: views/options.php:244
+msgid "Random Numbers"
+msgstr ""
+
+#: views/options.php:245
+msgid "Need Fake mode, for visitors this value is saved for 25 minutes"
+msgstr ""
+
+#: views/options.php:249
+msgid "From:"
+msgstr ""
+
+#: views/options.php:250
+msgid "To:"
+msgstr ""
+
+#: views/options.php:255
+msgid "Icon"
+msgstr ""
+
+#: views/options.php:256
+msgid "You can use always icon, fontawesome, only class name for example: fas fa-eye"
+msgstr ""
+
+#: views/options.php:264
+msgid "¿Problem with Icon?"
+msgstr ""
+
+#: views/options.php:265
+msgid "Load FontAwesome Library."
+msgstr ""
+
+#: views/options.php:273
+msgid "Message more than one user"
+msgstr ""
+
+#: views/options.php:274
+msgid "%n is replaced by number visitors"
+msgstr ""
+
+#: views/options.php:278 woo-counter-visitor.php:318
+#: woo-counter-visitor.php:356
+msgid "%n people are viewing this product"
+msgstr ""
+
+#: views/options.php:282
+msgid "Message only one user"
+msgstr ""
+
+#: views/options.php:286
+msgid "1 user are viewing this product"
+msgstr ""
+
+#: views/options.php:292
+msgid "Save"
+msgstr ""
+
+#: views/options.php:295
+msgid "Need style?"
+msgstr ""
+
+#: views/options.php:296
+msgid "Enjoy! Paste this CSS code into your Customizer and edit as you like"
+msgstr ""
+
+#: woo-counter-visitor.php:92
+msgid "Debug Mode, NOT COUNT FILES"
+msgstr ""
+
+#: woo-counter-visitor.php:129
+#, php-format
+msgid "Counter Visitor for WooCommerce %s version"
+msgstr ""
+
+#: woo-counter-visitor.php:130
+msgid "News options! Live Mode is available"
+msgstr ""
+
+#: woo-counter-visitor.php:131
+msgid "With the new version you can show the number of current users in real time. And it supports Fake Mode!"
+msgstr ""
+
+#: woo-counter-visitor.php:132
+msgid "We have also added FontAwesome to the plugin, although it is disabled by default, if your theme does not include FontAwesome you can enable this option"
+msgstr ""
+
+#: woo-counter-visitor.php:133
+msgid "WOW I want it!"
+msgstr ""
+
+#: woo-counter-visitor.php:134
+msgid "Close"
+msgstr ""
+
+#: woo-counter-visitor.php:201
+msgid "Visitor Counter"
+msgstr ""
+
+#: woo-counter-visitor.php:325 woo-counter-visitor.php:364
+msgid "<span class=\"wcvisitor_num\">1</span> user are viewing this product"
+msgstr ""
